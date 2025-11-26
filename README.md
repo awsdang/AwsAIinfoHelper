@@ -11,14 +11,14 @@ A simple VS Code extension that copies the relative path and the entire content 
 ## How to Use
 
 1.  Open any file in the VS Code editor.
-2.  Open the **Command Palette** (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS).
+2.  Open the **Command Palette** (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS) or better just use the shortcut .
 3.  Search for and select the command: **"Get Active File Info (Path & Content)"**.
 4.  The file's relative path and content will be copied to your clipboard.
 
-## Keybindings
+## Shortcut
 
--   **Windows/Linux:** `Ctrl+Alt+I`
--   **macOS:** `Cmd+Alt+I`
+-   **Windows/Linux:** `Ctrl+Shift+C`
+-   **macOS:** `Cmd+Shift+C`
 
 ## Feedback and Contributions
 
