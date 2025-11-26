@@ -1,9 +1,9 @@
 {
   "name": "AwsAIinfoHelper",
-  "displayName": "File Info Helper",
+  "displayName": "File Copier for AI",
   "description": "Gets relative path and content of the active file.",
   "version": "0.0.1",
-  "publisher": "YOUR_PUBLISHER_NAME",
+  "publisher": "awsdang",
   "license": "MIT",
   "repository": {
     "type": "git",
