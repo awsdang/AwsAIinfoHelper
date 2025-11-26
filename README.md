@@ -22,7 +22,7 @@ A simple VS Code extension that copies the relative path and the entire content 
 
 ## Feedback and Contributions
 
-If you have any feedback, suggestions, or issues, please create an issue in the [GitHub repository](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY). Contributions are always welcome!
+If you have any feedback, suggestions, or issues, please create an issue in the [GitHub repository](https://github.com/awsdang/AwsAIinfoHelper). Contributions are always welcome!
 
 ## License
 
