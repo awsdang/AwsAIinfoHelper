@@ -2,7 +2,7 @@
   "name": "AwsAIinfoHelper",
   "displayName": "File Copier for AI",
   "description": "Gets relative path and content of the active file.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "awsdang",
   "license": "MIT",
   "repository": {
@@ -29,8 +29,8 @@
     "keybindings": [
       {
         "command": "AwsAIinfoHelper.getFileInfo",
-        "key": "ctrl+alt+i", 
-        "mac": "cmd+alt+i"
+        "key": "ctrl+shift+c", 
+        "mac": "cmd+shift+c"
       }
     ]
   },
