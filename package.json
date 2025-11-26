@@ -3,6 +3,13 @@
   "displayName": "File Info Helper",
   "description": "Gets relative path and content of the active file.",
   "version": "0.0.1",
+  "publisher": "YOUR_PUBLISHER_NAME",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git"
+  },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.99.0"
   },
